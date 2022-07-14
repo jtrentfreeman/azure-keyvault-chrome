@@ -1,15 +1,15 @@
 .mainImage {
-    height: 250px;
+  height: 100%;
 }
 
 @media (prefers-color-scheme: dark) {
-    .App {
-        background: #812525
-    }
+  .App {
+    background: #812525;
+  }
 }
 
 @media (prefers-color-scheme: light) {
-    .App {
-        background: #000;
-    }
-}   
+  .App {
+    background: #000;
+  }
+}
